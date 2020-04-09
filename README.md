@@ -53,7 +53,7 @@ The aim of this example is to show
 * how to use text analytics techniques to explore text data and build predictive models, and
 * provide a starting point for researchers to build on it and dive deeper into unanswered questions regarding this pandemic. 
 
-## **For more information on text analytics using MATLAB:**
+## **For more information on Text Analytics using MATLAB:**
 * [Download a free trial](https://www.mathworks.com/campaigns/products/trials.html?prodcode=TA)
 * Visit [Text Analytics Toolbox](https://www.mathworks.com/products/text-analytics.html)
 
