@@ -63,6 +63,8 @@ The aim of this example is to show
 - [Text Analytics Toolbox](https://www.mathworks.com/products/text-analytics.html)
 - [Statistics and Machine Learning Toolbox](https://www.mathworks.com/products/statistics.html)
 
+[![View COVID-19_TextAnalytics_MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74942-covid-19_textanalytics_matlab)
+
 
 Copyright 2020 - 2020 The MathWorks, Inc.
 
