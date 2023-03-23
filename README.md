@@ -1,11 +1,11 @@
 # **Understanding COVID-19 from Research Articles using Text Analytics in MATLAB**
-[COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research), offered by Allen Institute for AI and other leading research groups, is a collection of  thousands of articles related to COVID-19 and related coronaviruses. Here, we are using text analytics techniques in MATLAB to explore the articles and use topic modeling and document summarization to answer some of the relevant questions.
+[COVID-19 Open Research Dataset (CORD-19)](https://allenai.org/data/cord-19), offered by Allen Institute for AI and other leading research groups, is a collection of  thousands of articles related to COVID-19 and related coronaviruses. Here, we are using text analytics techniques in MATLAB to explore the articles and use topic modeling and document summarization to answer some of the relevant questions.
 
 ## **Overview**
 
 ***Goal***: Explore relevant articles to understand “what do we know about transmission?”
 
-***Data used***: comm_use_subset from the dataset hosted at [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
+***Data used***: comm_use_subset from the dataset hosted at [COVID-19 Open Research Dataset (CORD-19)](https://allenai.org/data/cord-19)
 
 ***Techniques used***: Topic modeling and Document Summarization
 
